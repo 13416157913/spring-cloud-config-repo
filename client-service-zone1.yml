@@ -20,4 +20,4 @@ eureka:
 server:
   port: ${PORT:8087}
 
-foo: foo version 9
+foo: foo version 100
